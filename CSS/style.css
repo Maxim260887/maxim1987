@@ -1,0 +1,42 @@
+@import url('reset.css');
+
+table{
+    width: 462px;
+    height: 237px;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+th, td{
+    border-bottom: 1px solid #575757;
+    border-right: 1px solid #575757;
+    text-align: center;
+}
+#top{
+    vertical-align: top;
+}
+.bolder_1{
+    font-size: 22px;
+    color: red;
+}
+.bolder_2{
+    color: red;
+    font-size: 18px;
+}
+.bolder_3{
+    font-weight: bolder;
+    
+}
+span{
+    display: inline-block;
+}
+
+div{
+    width: 500px;
+    height: 262px;
+    border: 2px solid black;
+    border-radius: 40px;
+     margin: 20px auto;
+    padding: 8px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
